@@ -1,4 +1,4 @@
-package org.example;
+package org.review.oops;
 
 public class Bill implements IPayable {
 

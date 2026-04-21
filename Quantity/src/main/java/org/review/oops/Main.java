@@ -1,4 +1,4 @@
-package org.example;
+package org.review.oops;
 
 import java.util.Scanner;
 

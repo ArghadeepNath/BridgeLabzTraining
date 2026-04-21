@@ -1,6 +1,6 @@
-package org.example;
+package org.review.oops;
 
-public class OutPatient extends Patient{
+public class OutPatient extends Patient {
     private int doctorFee;
     public int getDoctorFee(){
         return doctorFee;

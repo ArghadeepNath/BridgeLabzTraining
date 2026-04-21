@@ -1,6 +1,6 @@
-package org.example;
+package org.review.oops;
 
-public class InPatient extends Patient{
+public class InPatient extends Patient {
     private int roomNumber;
     private int numberOfDays;
     private int dailyCharge;
